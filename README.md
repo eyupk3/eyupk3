@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+[![eyupk3's RepoMap](https://id-preview--b488463a-b611-4b43-92a7-d38060fc0d5c.lovable.app/og-image.png)](https://id-preview--b488463a-b611-4b43-92a7-d38060fc0d5c.lovable.app/eyupk3)
+
+🗺️ [My Repository Map](https://id-preview--b488463a-b611-4b43-92a7-d38060fc0d5c.lovable.app/eyupk3) — powered by [RepoMap](https://id-preview--b488463a-b611-4b43-92a7-d38060fc0d5c.lovable.app)
+
 <!--
 **eyupk3/eyupk3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
